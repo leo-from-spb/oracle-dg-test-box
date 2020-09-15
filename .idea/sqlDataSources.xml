@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="659e3ecb-2c86-4404-bfa8-d29a3cc9c9ff" />
+          <option name="name" value="scripts-11" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/dock/oracle-11/scripts" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
