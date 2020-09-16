@@ -1,0 +1,17 @@
+Oracle 11.2
+-----------
+
+This image is based on the following one:
+
+	https://github.com/wnameless/docker-oracle-xe-11g
+	https://hub.docker.com/r/wnameless/oracle-xe-11g-r2
+
+
+How to build:
+
+	docker build -t oracle-11-base:0.1 .
+
+How to start:
+
+	docker run -d -p 3111:1521 -p 3181:8080 -e ORACLE_DISABLE_ASYNCH_IO=true
+
